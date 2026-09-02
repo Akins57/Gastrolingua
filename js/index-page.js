@@ -106,7 +106,7 @@ async function init() {
     a.className = 'card'
     a.href = `notes.html?d=${discipline.slug}`
     a.innerHTML = `
-      <div class="card-icon">🫀</div>
+      <div class="card-icon">🫁</div>
       <div class="card-title">${title}</div>
       <div class="card-meta">
         <span>${topicCount} topic${topicCount !== 1 ? 's' : ''}</span>

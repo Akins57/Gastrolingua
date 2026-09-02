@@ -1,105 +1,103 @@
-# CardioLingua — Master Curriculum Plan
+# GastroLingua — Master Curriculum Plan
 
 Track progress here. ✅ = written & pushed. 🔲 = not yet written.
 
 ---
 
-## ANATOMY — 8 topics
+## UPPER GI — 8 topics
 
 | # | Slug | Topic | Status |
 |---|---|---|---|
-| 1 | `arterial-supply-venous-drainage-head-neck` | Arterial Supply of the Head & Neck | ✅ |
-| 2 | `vascular-anatomy-thorax` | Aorta & Coronary Arteries | ✅ |
-| 3 | `vascular-anatomy-upper-limb` | Arterial Supply of the Upper Limb | ✅ |
-| 4 | `vascular-anatomy-abdomen-pelvis` | Abdominal Aorta & Iliac Arteries | ✅ |
-| 5 | `vascular-anatomy-lower-limb` | Arterial Supply of the Lower Limb | ✅ |
-| 6 | `venous-head-neck-upper-limb` | Venous Drainage — Head, Neck & Upper Limb | ✅ |
-| 7 | `venous-thorax-abdomen` | Venous Drainage — Thorax & Abdomen | ✅ |
-| 8 | `venous-lower-limb` | Venous Anatomy of the Lower Limb | ✅ |
+| 1 | `peptic-ulcer-disease` | Peptic Ulcer Disease & H. pylori | 🔲 |
+| 2 | `gord-oesophagitis` | GORD, Oesophagitis & Barrett's Oesophagus | 🔲 |
+| 3 | `upper-gi-bleeding` | Upper GI Bleeding (variceal & non-variceal) | 🔲 |
+| 4 | `oesophageal-motility` | Oesophageal Motility Disorders (achalasia, diffuse spasm) | 🔲 |
+| 5 | `gastric-cancer` | Gastric Cancer & Gastric Lymphoma | 🔲 |
+| 6 | `oesophageal-cancer` | Oesophageal Cancer (SCC & adenocarcinoma) | 🔲 |
+| 7 | `gastroparesis` | Gastroparesis & Functional Dyspepsia | 🔲 |
+| 8 | `helicobacter-pylori` | Helicobacter pylori — Diagnosis & Eradication | 🔲 |
 
 ---
 
-## CARDIAC SURGERY — 12 topics
+## SMALL BOWEL — 5 topics
 
 | # | Slug | Topic | Status |
 |---|---|---|---|
-| 9 | `cardiac-surgery-anatomy` | Cardiac Surgery Anatomy (chambers, valves, conduction system, pericardium) | 🔲 |
-| 10 | `coronary-artery-disease` | Coronary Artery Disease — Pathophysiology & Indications for CABG | 🔲 |
-| 11 | `cabg` | CABG — Conduits, Techniques & Outcomes | 🔲 |
-| 12 | `cardiopulmonary-bypass` | Cardiopulmonary Bypass & Myocardial Protection | 🔲 |
-| 13 | `aortic-valve` | Aortic Valve Disease & Surgery (AS, AR, TAVI) | 🔲 |
-| 14 | `mitral-valve` | Mitral Valve Disease & Surgery (stenosis, regurgitation, repair vs replacement) | 🔲 |
-| 15 | `tricuspid-endocarditis` | Tricuspid, Pulmonary Valve & Infective Endocarditis | 🔲 |
-| 16 | `heart-failure-mcs` | Heart Failure, IABP, LVAD & ECMO | 🔲 |
-| 17 | `aortic-dissection` | Aortic Dissection (Type A & B) | 🔲 |
-| 18 | `thoracic-aortic-aneurysm` | Thoracic Aortic Aneurysm & TEVAR | 🔲 |
-| 19 | `af-arrhythmia-surgery` | Atrial Fibrillation & Arrhythmia Surgery | 🔲 |
-| 20 | `congenital-heart-disease` | Congenital Heart Disease (ASD, VSD, ToF, TGA, coarctation, PDA) | 🔲 |
+| 9 | `coeliac-disease` | Coeliac Disease & Malabsorption | 🔲 |
+| 10 | `small-bowel-crohn` | Crohn's Disease of the Small Bowel | 🔲 |
+| 11 | `small-bowel-bleeding` | Small Bowel Bleeding & Obscure GI Bleeding | 🔲 |
+| 12 | `intestinal-failure` | Intestinal Failure & Short Bowel Syndrome | 🔲 |
+| 13 | `small-bowel-tumours` | Small Bowel Tumours & Carcinoid | 🔲 |
 
 ---
 
-## AORTIC & VASCULAR — 10 topics
+## LOWER GI & IBD — 8 topics
 
 | # | Slug | Topic | Status |
 |---|---|---|---|
-| 21 | `aaa-open` | AAA — Open Repair | 🔲 |
-| 22 | `aaa-evar` | AAA — EVAR | 🔲 |
-| 23 | `carotid-cea` | Carotid Artery Disease & CEA | 🔲 |
-| 24 | `carotid-stenting` | Carotid Artery Stenting & Cerebrovascular Disease | 🔲 |
-| 25 | `renovascular-disease` | Renal Artery Stenosis & Renovascular Disease | 🔲 |
-| 26 | `mesenteric-ischaemia` | Mesenteric Ischaemia (acute & chronic) | 🔲 |
-| 27 | `visceral-aneurysms` | Visceral Aneurysms (splenic, hepatic, renal) | 🔲 |
-| 28 | `thoracic-outlet-syndrome` | Thoracic Outlet Syndrome | 🔲 |
-| 29 | `vascular-trauma` | Vascular Trauma (extremity, thoracic, abdominal) | 🔲 |
-| 30 | `vascular-access` | Vascular Access (AVF, AVG, CVC, dialysis complications) | 🔲 |
+| 14 | `ulcerative-colitis` | Ulcerative Colitis — Diagnosis & Management | 🔲 |
+| 15 | `crohn-disease` | Crohn's Disease — Classification & Management | 🔲 |
+| 16 | `ibd-complications` | IBD Complications & Extra-intestinal Manifestations | 🔲 |
+| 17 | `lower-gi-bleeding` | Lower GI Bleeding | 🔲 |
+| 18 | `colorectal-cancer` | Colorectal Cancer — Screening, Staging & Management | 🔲 |
+| 19 | `diverticular-disease` | Diverticular Disease & Diverticulitis | 🔲 |
+| 20 | `ibs-functional` | Irritable Bowel Syndrome & Functional Bowel Disorders | 🔲 |
+| 21 | `microscopic-colitis` | Microscopic Colitis & Collagenous Colitis | 🔲 |
 
 ---
 
-## VENOUS & LYMPHATIC — 6 topics
+## HEPATOLOGY — 10 topics
 
 | # | Slug | Topic | Status |
 |---|---|---|---|
-| 31 | `dvt-pe` | Deep Vein Thrombosis & Pulmonary Embolism | 🔲 |
-| 32 | `may-thurner` | May-Thurner Syndrome & Iliac Vein Disease | 🔲 |
-| 33 | `chronic-venous-insufficiency` | Chronic Venous Insufficiency & Varicose Veins | ✅ |
-| 34 | `venous-ulcers` | Venous Ulcers & Wound Care | ✅ |
-| 35 | `svc-syndrome` | SVC Syndrome & Central Venous Obstruction | ✅ |
-| 36 | `lymphoedema` | Lymphoedema & Lymphatic Disease | 🔲 |
+| 22 | `viral-hepatitis-b` | Hepatitis B — Virology, Natural History & Treatment | 🔲 |
+| 23 | `viral-hepatitis-c` | Hepatitis C — Diagnosis & Direct-Acting Antivirals | 🔲 |
+| 24 | `alcoholic-liver-disease` | Alcoholic Liver Disease & Alcoholic Hepatitis | 🔲 |
+| 25 | `nafld-nash` | NAFLD & NASH — Diagnosis & Management | 🔲 |
+| 26 | `autoimmune-hepatitis` | Autoimmune Hepatitis, PBC & PSC | 🔲 |
+| 27 | `cirrhosis-portal-hypertension` | Cirrhosis & Portal Hypertension | 🔲 |
+| 28 | `acute-liver-failure` | Acute Liver Failure | 🔲 |
+| 29 | `hepatocellular-carcinoma` | Hepatocellular Carcinoma — Surveillance & Management | 🔲 |
+| 30 | `hereditary-liver` | Hereditary Liver Disease (haemochromatosis, Wilson's, A1AT) | 🔲 |
+| 31 | `liver-transplant` | Liver Transplantation — Indications & Post-transplant Care | 🔲 |
 
 ---
 
-## PERIPHERAL ARTERIAL DISEASE — 6 topics
+## BILIARY & PANCREAS — 8 topics
 
 | # | Slug | Topic | Status |
 |---|---|---|---|
-| 37 | `acute-limb-ischaemia` | Acute Limb Ischaemia | ✅ |
-| 38 | `intermittent-claudication` | Intermittent Claudication | ✅ |
-| 39 | `chronic-limb-threatening-ischaemia` | Chronic Limb-Threatening Ischaemia (CLTI) | ✅ |
-| 40 | `open-surgical-pad` | Open Surgical Procedures for PAD | ✅ |
-| 41 | `endovascular-pad` | Endovascular Procedures for PAD (PTA, stenting, atherectomy) | ✅ |
-| 42 | `diabetic-foot` | Diabetic Foot, Wound Classification & Amputation | ✅ |
+| 32 | `gallstone-disease` | Gallstone Disease & Biliary Colic | 🔲 |
+| 33 | `cholangitis-cholecystitis` | Acute Cholangitis & Cholecystitis | 🔲 |
+| 34 | `psc-pbc` | Primary Sclerosing Cholangitis & Primary Biliary Cholangitis | 🔲 |
+| 35 | `acute-pancreatitis` | Acute Pancreatitis — Aetiology, Severity & Management | 🔲 |
+| 36 | `chronic-pancreatitis` | Chronic Pancreatitis & Exocrine Insufficiency | 🔲 |
+| 37 | `pancreatic-cancer` | Pancreatic Cancer — Staging & Resectability | 🔲 |
+| 38 | `pancreatic-cysts` | Pancreatic Cysts (IPMN, MCN, serous) | 🔲 |
+| 39 | `ercp` | ERCP — Indications, Technique & Complications | 🔲 |
 
 ---
 
-## PHARMACOLOGY & CRITICAL CARE — 5 topics
+## ENDOSCOPY & PROCEDURES — 5 topics
 
 | # | Slug | Topic | Status |
 |---|---|---|---|
-| 43 | `anticoagulation` | Anticoagulation (heparin, LMWH, warfarin, DOACs, reversal agents) | ✅ |
-| 44 | `antiplatelet-thrombolytics` | Antiplatelet & Thrombolytic Therapy | 🔲 |
-| 45 | `vasopressors-inotropes` | Vasopressors, Vasodilators & Inotropes | 🔲 |
-| 46 | `postop-cardiac` | Postoperative Care after Cardiac Surgery | 🔲 |
-| 47 | `postop-vascular` | Postoperative Care after Vascular Surgery | 🔲 |
+| 40 | `ogd-technique` | OGD — Technique, Landmarks & Findings | 🔲 |
+| 41 | `colonoscopy` | Colonoscopy — Technique, Bowel Prep & Quality Indicators | 🔲 |
+| 42 | `polypectomy` | Colorectal Polyps & Polypectomy | 🔲 |
+| 43 | `endoscopic-haemostasis` | Endoscopic Haemostasis Techniques | 🔲 |
+| 44 | `eus-capsule` | EUS & Capsule Endoscopy | 🔲 |
 
 ---
 
-## IMAGING & INVESTIGATION — 3 topics
+## NUTRITION & GENERAL — 4 topics
 
 | # | Slug | Topic | Status |
 |---|---|---|---|
-| 48 | `vascular-ultrasound-abi` | Vascular Ultrasound & ABI | 🔲 |
-| 49 | `cta-mra-angiography` | CTA, MRA & Conventional Angiography | 🔲 |
-| 50 | `echocardiography` | Echocardiography (TTE & TOE) | 🔲 |
+| 45 | `nutritional-support` | Nutritional Support (enteral & parenteral) | 🔲 |
+| 46 | `gi-infections` | GI Infections (C. difficile, food poisoning, traveller's diarrhoea) | 🔲 |
+| 47 | `eosinophilic-gi` | Eosinophilic Oesophagitis & Eosinophilic GI Disorders | 🔲 |
+| 48 | `gi-drugs` | Key GI Pharmacology (PPIs, antiemetics, laxatives, biologics) | 🔲 |
 
 ---
 
@@ -107,13 +105,13 @@ Track progress here. ✅ = written & pushed. 🔲 = not yet written.
 
 | Domain | Topics | Done |
 |---|---|---|
-| Anatomy | 8 | 8 ✅ |
-| Cardiac Surgery | 12 | 0 |
-| Aortic & Vascular | 10 | 0 |
-| Venous & Lymphatic | 6 | 3 ✅ |
-| Peripheral Arterial | 6 | 6 ✅ |
-| Pharmacology & Critical Care | 5 | 1 ✅ |
-| Imaging & Investigation | 3 | 0 |
-| **TOTAL** | **50** | **18 ✅ / 32 🔲** |
+| Upper GI | 8 | 0 |
+| Small Bowel | 5 | 0 |
+| Lower GI & IBD | 8 | 0 |
+| Hepatology | 10 | 0 |
+| Biliary & Pancreas | 8 | 0 |
+| Endoscopy & Procedures | 5 | 0 |
+| Nutrition & General | 4 | 0 |
+| **TOTAL** | **48** | **0 🔲** |
 
-**Target: ~1,000 cards → 2,000 virtual cards (EN + RU)**
+**Target: ~960 cards → 1,920 virtual cards (EN + RU)**

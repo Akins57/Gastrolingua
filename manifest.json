@@ -1,12 +1,12 @@
 {
-  "name": "CardioLingua",
-  "short_name": "CardioLingua",
-  "description": "Bilingual cardiovascular surgery study app",
+  "name": "GastroLingua",
+  "short_name": "GastroLingua",
+  "description": "Bilingual gastroenterology study app",
   "start_url": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
   "icons": [
     {
       "src": "icons/icon-192.png",

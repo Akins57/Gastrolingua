@@ -1,4 +1,4 @@
-# CardioLingua — Content Writing Instructions
+# GastroLingua — Content Writing Instructions
 
 These rules apply every time a new topic is added to `js/data.js`.
 
@@ -6,11 +6,11 @@ These rules apply every time a new topic is added to `js/data.js`.
 
 ## Summary Notes
 
-- **Length**: Detailed surgical-level summary. Maximum 1,200 words. Written for a cardiovascular surgery trainee (CT1–CT3 equivalent) — include named structures, specific measurements, anatomical relationships, named classifications, and operative detail where relevant.
-- **Currency**: Content must reflect current medical guidelines (AHA, ESC, ACC, ESVS, SVS, etc.). State the guideline source inline when citing a threshold or recommendation.
-- **Medications**: If any drug is mentioned, its dose and regimen must also be stated (e.g., "aspirin 75–100 mg daily").
-- **Structure**: Use sections appropriate to the topic. Common sections include: Overview, [Anatomy / Pathophysiology / Classification], Surgical Approach / Management, Complications, Surgical Correlates / Key Points.
-- **Style**: Concise, clinical, point-form where appropriate. No introductory filler. For anatomy topics, include named branches, tributaries, perforators, anatomical variants, and surgical landmarks.
+- **Length**: Detailed clinical-level summary. Maximum 1,200 words. Written for a gastroenterology trainee (ST3–ST6 equivalent) — include named investigations, specific thresholds, classification systems, endoscopic findings, histological criteria, and management algorithms where relevant.
+- **Currency**: Content must reflect current medical guidelines (BSG, ESGE, EASL, ACG, ECCO, NICE, etc.). State the guideline source inline when citing a threshold or recommendation.
+- **Medications**: If any drug is mentioned, its dose and regimen must also be stated (e.g., "mesalazine 2.4 g daily").
+- **Structure**: Use sections appropriate to the topic. Common sections include: Overview, Pathophysiology, Clinical Features, Investigation, Classification / Scoring, Management, Complications, Key Points.
+- **Style**: Concise, clinical, point-form where appropriate. No introductory filler. For endoscopy topics, include technique, grading systems, landmarks, and procedural detail.
 
 ---
 
@@ -35,10 +35,9 @@ These rules apply every time a new topic is added to `js/data.js`.
 
 - **Russian = direct translation** of the English version. No paraphrasing, no additions.
 - Use correct Russian medical terminology throughout (not lay terms).
-- Mnemonics in English (e.g., SALFOPMS) may be kept in English in the Russian note with a parenthetical Russian label if helpful; do not fabricate a Russian mnemonic.
-- Abbreviations: introduce both the English abbreviation and its Russian equivalent where relevant (e.g., "ОСА / CCA", "КЭА / CEA").
-- **Russian abbreviations — spell out first**: Every Russian medical term must be written in full before its abbreviation in brackets on first use — e.g., "верхняя брыжеечная артерия (ВБА)", never just "ВБА" on its own. Subsequent uses within the same section may use the abbreviation alone.
-- **Russian flashcard abbreviations — always full form**: In Russian flashcard questions and answers (`question_ru`, `answer_ru`), abbreviations must **always** include the full form, every time, without exception — e.g., "лодыжечно-плечевой индекс (ЛПИ)", never just "ЛПИ". Each card stands alone and has no prior context, so the full term must always be present.
+- Abbreviations: introduce both the English abbreviation and its Russian equivalent where relevant (e.g., "ВЗК / IBD", "ЭГДС / OGD").
+- **Russian abbreviations — spell out first**: Every Russian medical term must be written in full before its abbreviation in brackets on first use — e.g., "воспалительные заболевания кишечника (ВЗК)", never just "ВЗК" on its own. Subsequent uses within the same section may use the abbreviation alone.
+- **Russian flashcard abbreviations — always full form**: In Russian flashcard questions and answers (`question_ru`, `answer_ru`), abbreviations must **always** include the full form, every time, without exception — e.g., "воспалительные заболевания кишечника (ВЗК)", never just "ВЗК". Each card stands alone and has no prior context, so the full term must always be present.
 
 ---
 
@@ -47,7 +46,7 @@ These rules apply every time a new topic is added to `js/data.js`.
 Card IDs are permanent — they key SRS state in IndexedDB and must **never change** after first use.
 
 Format: `[topic-slug]-[zero-padded number]`
-Example: `arterial-head-neck-001`, `arterial-head-neck-002`, …
+Example: `peptic-ulcer-disease-001`, `peptic-ulcer-disease-002`, …
 
 ---
 
@@ -55,11 +54,11 @@ Example: `arterial-head-neck-001`, `arterial-head-neck-002`, …
 
 ```js
 {
-  id: 'arterial-head-neck-001',
-  question_en: 'Right CCA origin?',
-  question_ru: 'Откуда отходит правая ОСА?',
-  answer_en:   'Brachiocephalic trunk',
-  answer_ru:   'Плечеголовной ствол'
+  id: 'peptic-ulcer-disease-001',
+  question_en: 'Most common cause of duodenal ulcer?',
+  question_ru: 'Наиболее частая причина язвы двенадцатиперстной кишки?',
+  answer_en:   'H. pylori',
+  answer_ru:   'H. pylori'
 }
 ```
 

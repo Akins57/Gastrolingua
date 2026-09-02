@@ -2,7 +2,7 @@
 // IndexedDB wrapper — stores SRS scheduling state and review history.
 // Content (notes + cards) lives in data.js, not here.
 
-const DB_NAME = 'cardio-study'
+const DB_NAME = 'gastro-study'
 const DB_VERSION = 2
 
 let _db       = null
